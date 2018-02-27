@@ -2,6 +2,12 @@
 Repositorio con ejercicios para practicar comandos básicos de git
 
 ## Qué podemos hacer
+##voy a un directorio
+mkdir HO_git
+##Clono el repositorio despues de forkearlo
+git clone...
+## Me ubico en el repositorio
+cd HOgit
 
 ### Commits
 Modificar un archivo y agregarlo al repositorio como un nuevo commit
